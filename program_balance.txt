@@ -1,0 +1,57 @@
+ADDPOOL pooll
+ADDPOOL pool
+
+ADDSCHEME pooll scheme
+ADDSCHEME pooll schemef
+
+ADDSCHEME pool scheme
+ADDSCHEME pool schemef
+ADDSCHEME pool schemeqfj
+
+ADDCOLLECTION pooll scheme collection
+ADDCOLLECTION pooll scheme collectiondd
+ADDCOLLECTION pooll scheme coll
+
+ADDCOLLECTION pooll schemef collecn
+ADDCOLLECTION pooll schemef collectionddvajb
+ADDCOLLECTION pooll schemef collavj
+
+ADDCOLLECTION pool scheme colleddvjvafieho
+ADDCOLLECTION pool scheme collvajk
+ADDCOLLECTION pool scheme collectionvjaeiojqfej
+
+ADDCOLLECTION pool schemef col
+ADDCOLLECTION pool schemef collvajk
+ADDCOLLECTION pool schemef collectionvjaei
+
+ADDCOLLECTION pool schemeqfj colvdjs
+ADDCOLLECTION pool schemeqfj collvavdbaiueghoqjk
+ADDCOLLECTION pool schemeqfj collaei
+
+ADD pool scheme collvajk 1 masha 1039
+ADD pool scheme collvajk 2 sasha 1200
+ADD pool scheme collvajk 3 dasha 10300
+
+ADD pool scheme colleddvjvafieho 1 lada 10002768
+ADD pool scheme colleddvjvafieho 2 ksuha 120000
+
+ADD pool schemeqfj colvdjs 1 pomogite 10429
+ADD pool schemeqfj collaei 2 ya 120000
+ADD pool schemeqfj collaei 3 bolshe 1030
+
+ADD pooll scheme collection 1 ne 666999
+ADD pooll scheme collection 2 mogu 666
+ADD pooll scheme coll 3 dasha 1030084
+
+READ pool schemeqfj collaei 120000
+READ pooll scheme collection 666
+READ pool scheme colleddvjvafieho 10002768
+
+DELETE pool schemeqfj collaei 120000
+UPDATE pool scheme colleddvjvafieho 10002768 new 666
+
+READ pool scheme colleddvjvafieho 666
+
+DELETESCHEME pool schemef
+
+DELETECOLLECTION pool scheme collvajk
